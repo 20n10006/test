@@ -1,6 +1,0 @@
-20n10006_repository
-- halo bang
-- halo juga bang
-- oke bang
-- oke juga bang
-- ini di branch bang
