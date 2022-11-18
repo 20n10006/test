@@ -1,0 +1,6 @@
+Portofolio singkat:
+  Halo nama saya William Ong Listijono, saya lahir pada 31 Desember 2002 di Semarang. Sekarang saya sedang berkuliah 
+di Unika Soegijapranata dengan NIM 20.N1.0006, saya mengambil jurusan Sistem Informasi, Fakultas Komputer, sekarang
+saya di semester 5 dan sudah berkuliah selama 2 tahun. Selama kuliah ini saya belajar banyak hal terkait programming,
+seperti membuat website, aplikasi, hingga mengatur backend nya yaitu database dan connectivity. Saya sendiri cukup
+tertarik dengan bahasa pemrograman PHP.
